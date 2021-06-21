@@ -1,8 +1,8 @@
 {
-	"name": "vue3-composition-api-todo-app",
-	"description": "Basic ToDo App with Vue 3 Composition API",
+	"name": "todo app on vue",
+	"description": "Todo app on vue",
 	"version": "0.1.0",
-	"author": "Burak Gür <gurbrk@gmail.com>",
+	"author": "tschernysh",
 	"private": true,
 	"scripts": {
 		"serve": "vue-cli-service serve",
